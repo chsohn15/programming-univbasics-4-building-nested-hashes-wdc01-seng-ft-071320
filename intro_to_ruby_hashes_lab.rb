@@ -50,7 +50,7 @@
       {
         :reading_railroad => 
       {
-          "mortgage_value"=> "$200"
+          "mortgage_value"=> "$100"
         
       }, 
       :pennsylvania_railroad => 
